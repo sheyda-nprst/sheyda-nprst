@@ -6,7 +6,7 @@ I'm currently looking for research assistant roles and AI/robotics internships.
 
 🦯 **My focus these days:** improving how VLMs understand space (direction, depth, obstacles) so they can help visually impaired people navigate independently.
 
-**Tools:** Python · PyTorch · OpenCV · MATLAB/Simulink · C++ · Webots · Embedded systems
+**Tools:** Python · PyTorch · Git · Java · OpenCV · MATLAB/Simulink · C++
 
 📫 [LinkedIn](https://linkedin.com/in/sheyda-niaparast) · [Email](mailto:sheydaniaparast@gmail.com)
 
