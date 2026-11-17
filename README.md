@@ -8,7 +8,7 @@ I'm currently looking for research assistant roles and AI/robotics internships.
 
 **Tools:** Python · PyTorch · Git · Java · OpenCV · MATLAB/Simulink · C++
 
-📫 [LinkedIn](https://linkedin.com/in/sheyda-niaparast) · [Email](mailto:sheydaniaparast@gmail.com)
+📫 [Portfolio](https://sheyda-nprst.github.io) · [LinkedIn](https://linkedin.com/in/sheyda-niaparast) · [Email](mailto:sheydaniaparast@gmail.com)
 
 <!--
 **sheyda-nprst/sheyda-nprst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
